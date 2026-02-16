@@ -1,0 +1,5 @@
+<?php
+
+/**
+ * Acceuil du site
+ */
