@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #667eea;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+.logo-container {
+    margin-bottom: 50px;
+}
+
+.logo {
+    max-width: 800px;
+    width: 90%;
+}
+
+.btn-start {
+    display: inline-block;
+    padding: 15px 40px;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    background: #f5576c;
+    border-radius: 50px;
+}
+

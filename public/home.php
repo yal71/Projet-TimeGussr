@@ -21,7 +21,7 @@
         </div>
         
         <div class="cta-container">
-            <a href="index.php?page=round" class="btn-start">Commencer le jeu</a>
+            <a href="round.php" class="btn-start">Commencer le jeu</a>
         </div>
     </div>
 </body>
